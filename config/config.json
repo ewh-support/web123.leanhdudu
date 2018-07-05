@@ -1,0 +1,6 @@
+{
+  "name": "VinaAS AdminCP",
+  "version": 1.0,
+  "apiEndPoint" : "http://localhost:8899",
+  "websiteTitle" : "Local Trung tâm Ngoại ngữ - Tin học Đăk Nông"
+}
